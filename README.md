@@ -171,6 +171,7 @@
  نحوه تعریف اپراتور جدید به صورت زیر خواهد بود:
 
   <div dir='ltr' align="justify">
+    
  add new operator <br>
 a Comp b = 2*a+b<br>
  
