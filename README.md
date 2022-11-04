@@ -10,7 +10,7 @@
   پروژه سوم - ماشین حساب 
 
 
-<img src="https://s25.picofile.com/file/8455118076/Picture55.png"  width="500"/>
+<img src="https://s25.picofile.com/file/8455118076/Picture55.png"  hieght="500"/>
   
   طراحان پروژه : امیرعلی گلی – محمد توکلی – علیرضا ساعی - حسین علیترکان
 </div>
